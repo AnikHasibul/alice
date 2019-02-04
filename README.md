@@ -1,8 +1,8 @@
 # Alice 
 
-[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/justinas/alice)
-[![Build Status](https://travis-ci.org/justinas/alice.svg?branch=master)](https://travis-ci.org/justinas/alice)
-[![Coverage](http://gocover.io/_badge/github.com/justinas/alice)](http://gocover.io/github.com/justinas/alice)
+[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/anikhasibul/alice)
+[![Build Status](https://travis-ci.org/justinas/alice.svg?branch=master)](https://travis-ci.org/anikhasibul/alice)
+[![Coverage](http://gocover.io/_badge/github.com/justinas/alice)](http://gocover.io/github.com/anikhasibul/alice)
 
 Alice provides a convenient way to chain 
 your HTTP middleware functions and the app handler.
@@ -56,7 +56,7 @@ import (
     "time"
 
     "github.com/throttled/throttled"
-    "github.com/justinas/alice"
+    "github.com/anikhasibul/alice"
     "github.com/justinas/nosurf"
 )
 
